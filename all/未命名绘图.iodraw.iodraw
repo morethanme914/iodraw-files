@@ -106,8 +106,8 @@
         <mxCell id="LH3pXSIm3jjR05VtgF1b-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot;&gt;混频频综板&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#001dbc;" vertex="1" parent="1">
           <mxGeometry x="740" y="300" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LH3pXSIm3jjR05VtgF1b-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="490" width="30" height="100" as="geometry" />
+        <mxCell id="LH3pXSIm3jjR05VtgF1b-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="760" y="470" width="30" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
