@@ -37,7 +37,7 @@
         <mxCell id="iGBvURgHcrvmc4EDzU9c-14" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;IF_2GHz&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="300" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iGBvURgHcrvmc4EDzU9c-17" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="iGBvURgHcrvmc4EDzU9c-17" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;fontColor=none;noLabel=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="560" height="300" as="geometry" />
         </mxCell>
       </root>
