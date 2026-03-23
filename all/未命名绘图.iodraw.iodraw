@@ -73,6 +73,9 @@
         <mxCell id="iGBvURgHcrvmc4EDzU9c-30" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;1分16功分&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="290" y="130" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iGBvURgHcrvmc4EDzU9c-31" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;4通道BFIC&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
