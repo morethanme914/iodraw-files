@@ -100,8 +100,8 @@
         <mxCell id="iGBvURgHcrvmc4EDzU9c-32" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;8*8相控阵&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="560" y="130" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xYPxztXo6jaFqR9ZjXXI-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="xYPxztXo6jaFqR9ZjXXI-10" value="有源相控阵面" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="50" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
