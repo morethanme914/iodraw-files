@@ -55,8 +55,8 @@
         <mxCell id="iGBvURgHcrvmc4EDzU9c-14" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;IF_2GHz&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="30" y="300" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iGBvURgHcrvmc4EDzU9c-17" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;fontColor=none;noLabel=1;textOpacity=0;fillColor=none;glass=0;dashed=1;dashPattern=8 8;strokeColor=#548235;" vertex="1" parent="1">
-          <mxGeometry x="120" y="320" width="600" height="100" as="geometry" />
+        <mxCell id="iGBvURgHcrvmc4EDzU9c-17" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;fontColor=#ffffff;noLabel=1;textOpacity=0;fillColor=#008a00;glass=0;dashed=1;dashPattern=8 8;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="600" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iGBvURgHcrvmc4EDzU9c-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iGBvURgHcrvmc4EDzU9c-21" target="iGBvURgHcrvmc4EDzU9c-10">
           <mxGeometry relative="1" as="geometry" />
