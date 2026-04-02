@@ -154,6 +154,9 @@
         <mxCell id="EaPjFz_4GInW0U7tlCrk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EaPjFz_4GInW0U7tlCrk-29" target="EaPjFz_4GInW0U7tlCrk-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EaPjFz_4GInW0U7tlCrk-31" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot;&gt;发射&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#001dbc;" vertex="1" parent="1">
+          <mxGeometry x="351" y="513" width="113" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
