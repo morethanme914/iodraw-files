@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iGBvURgHcrvmc4EDzU9c-30" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;功分&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1099" y="280" width="63" height="60" as="geometry" />
+          <mxGeometry x="1149" y="280" width="63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xYPxztXo6jaFqR9ZjXXI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iGBvURgHcrvmc4EDzU9c-31" target="iGBvURgHcrvmc4EDzU9c-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="EaPjFz_4GInW0U7tlCrk-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;Gain Block&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="906" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EaPjFz_4GInW0U7tlCrk-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;功分&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1159" y="290" width="63" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
