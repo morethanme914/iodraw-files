@@ -106,9 +106,6 @@
         <mxCell id="LH3pXSIm3jjR05VtgF1b-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot;&gt;发射&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#001dbc;" parent="1" vertex="1">
           <mxGeometry x="360" y="176" width="113" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LH3pXSIm3jjR05VtgF1b-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="730" y="265" width="20" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="EaPjFz_4GInW0U7tlCrk-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;Gain Block&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="906" y="320" width="80" height="60" as="geometry" />
         </mxCell>
