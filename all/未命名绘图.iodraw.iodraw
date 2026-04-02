@@ -149,7 +149,10 @@
           <mxGeometry x="520" y="444" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EaPjFz_4GInW0U7tlCrk-29" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;fontColor=#000000;noLabel=1;textOpacity=0;fillColor=none;glass=0;dashed=1;strokeColor=#FF9933;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="140" y="200" width="600" height="126" as="geometry" />
+          <mxGeometry x="130" y="425" width="600" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="EaPjFz_4GInW0U7tlCrk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EaPjFz_4GInW0U7tlCrk-29" target="EaPjFz_4GInW0U7tlCrk-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
