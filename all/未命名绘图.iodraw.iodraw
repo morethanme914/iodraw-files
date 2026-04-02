@@ -83,13 +83,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iGBvURgHcrvmc4EDzU9c-30" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;功分&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="1099" y="280" width="63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xYPxztXo6jaFqR9ZjXXI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iGBvURgHcrvmc4EDzU9c-31" target="iGBvURgHcrvmc4EDzU9c-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iGBvURgHcrvmc4EDzU9c-31" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;4通道BFIC&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1186" y="280" width="100" height="60" as="geometry" />
+        <mxCell id="iGBvURgHcrvmc4EDzU9c-31" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;BFIC&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1239" y="280" width="47" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGBvURgHcrvmc4EDzU9c-32" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;8*8相控阵&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1326" y="280" width="100" height="60" as="geometry" />
