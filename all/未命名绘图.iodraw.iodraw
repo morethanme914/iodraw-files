@@ -162,11 +162,8 @@
         <mxCell id="EaPjFz_4GInW0U7tlCrk-31" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot;&gt;接收&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#001dbc;" parent="1" vertex="1">
           <mxGeometry x="351" y="513" width="113" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S5_XdwwFwi35qJS0fozT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S5_XdwwFwi35qJS0fozT-1" target="iGBvURgHcrvmc4EDzU9c-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="S5_XdwwFwi35qJS0fozT-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;&lt;font face=&quot;等线&quot;&gt;BP-Filter&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="948" y="344" width="54" height="60" as="geometry" />
+          <mxGeometry x="950" y="344" width="54" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
