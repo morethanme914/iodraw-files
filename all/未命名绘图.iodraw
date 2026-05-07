@@ -96,7 +96,7 @@
         <mxCell id="jKg7Exkf3SS9zxphT1es-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 3：金属参考板测量&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="390" y="662" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jKg7Exkf3SS9zxphT1es-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 2：背景杂波测量&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="jKg7Exkf3SS9zxphT1es-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 4：被测件测量&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="390" y="750" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
