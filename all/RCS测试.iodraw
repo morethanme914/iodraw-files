@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="kwwbXYJHoqKFrKfol9qG">
+    <mxGraphModel dx="1050" dy="1798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iGBvURgHcrvmc4EDzU9c-35" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;fontColor=#000000;noLabel=1;textOpacity=0;fillColor=none;glass=0;dashed=1;strokeColor=#FF9933;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="160" y="-70" width="600" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jKg7Exkf3SS9zxphT1es-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jKg7Exkf3SS9zxphT1es-1" target="jKg7Exkf3SS9zxphT1es-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKg7Exkf3SS9zxphT1es-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 1：系统端口校准&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="505" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jKg7Exkf3SS9zxphT1es-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jKg7Exkf3SS9zxphT1es-2" target="jKg7Exkf3SS9zxphT1es-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKg7Exkf3SS9zxphT1es-2" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 2：背景杂波测量&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="590" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jKg7Exkf3SS9zxphT1es-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jKg7Exkf3SS9zxphT1es-3" target="jKg7Exkf3SS9zxphT1es-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKg7Exkf3SS9zxphT1es-3" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 3：金属参考板测量&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="676" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jKg7Exkf3SS9zxphT1es-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jKg7Exkf3SS9zxphT1es-4" target="jKg7Exkf3SS9zxphT1es-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jKg7Exkf3SS9zxphT1es-4" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 4：被测件测量&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="761" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jKg7Exkf3SS9zxphT1es-5" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 5：数据处理&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="846" width="230" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
