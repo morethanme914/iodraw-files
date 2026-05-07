@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jKg7Exkf3SS9zxphT1es-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 1：系统端口校准&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;align=center;" vertex="1" parent="1">
-          <mxGeometry x="390" y="480" width="230" height="60" as="geometry" />
+          <mxGeometry x="390" y="505" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jKg7Exkf3SS9zxphT1es-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jKg7Exkf3SS9zxphT1es-2" target="jKg7Exkf3SS9zxphT1es-4">
           <mxGeometry relative="1" as="geometry" />
