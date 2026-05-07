@@ -87,8 +87,8 @@
         <mxCell id="iGBvURgHcrvmc4EDzU9c-35" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;fontColor=#000000;noLabel=1;textOpacity=0;fillColor=none;glass=0;dashed=1;strokeColor=#FF9933;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="160" y="-70" width="600" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="jKg7Exkf3SS9zxphT1es-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 1：系统端口校准&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="390" y="480" width="160" height="60" as="geometry" />
+        <mxCell id="jKg7Exkf3SS9zxphT1es-1" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal; font-size: 18px;&quot;&gt;步骤 1：系统端口校准&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
